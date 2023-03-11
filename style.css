@@ -10,6 +10,6 @@ h2{
 ul{
     background: linear-gradient(to right, rgb(0, 255, 102), lightpink);
 }
-code{
+pre{
     background: linear-gradient(to right, rgb(0, 234, 255), rgb(0, 255, 128));
 }
